@@ -25,4 +25,4 @@ Contiene las siguiente secciones:
 Aplicar los conocimientos adquiridos sobre HTML5 y CSS3.
 
 ## 4. Link a demo
-Aquí puedes visualizar mi proyecto terminado: [Portafolio]((https://super-pegasus-264c7c.netlify.app/)https://super-pegasus-264c7c.netlify.app/)
+Aquí puedes visualizar mi proyecto terminado: [Portafolio](https://super-pegasus-264c7c.netlify.app/)
